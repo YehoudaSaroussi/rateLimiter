@@ -1,4 +1,4 @@
-# MizeTest - Sliding Window Rate Limiter
+# Sliding Window Rate Limiter
 
 This project demonstrates a thread-safe, sliding window rate limiter in C# using .NET 7 and xUnit for testing.
 
